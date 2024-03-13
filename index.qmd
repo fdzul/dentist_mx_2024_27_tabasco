@@ -1206,7 +1206,7 @@ deneggs::map_eggs_hotspots(betas = betas_27_tabasco,
 ```
 
 ### [**"Tenosique de Pino Suarez"**]{style="color:#990000"}
-```{r vector_hotspots_pino, dpi = 300, warning=FALSE, message=FALSE}
+```{r vector_hotspots_pinosuarez, dpi = 300, warning=FALSE, message=FALSE}
 deneggs::map_eggs_hotspots(betas = betas_27_tabasco,
                            locality = "Tenosique de Pino Suarez",
                            cve_edo = "27",
